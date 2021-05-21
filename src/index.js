@@ -498,7 +498,8 @@ class AlertsPlugin {
         stage,
         region,
         functions,
-        d
+        d,
+        provider
       );
 
       const cfResource =
